@@ -44,3 +44,46 @@ https://biopython.org/docs/latest/api/Bio.Blast.NCBIWWW.html#Bio.Blast.NCBIWWW.q
 https://weblogo.threeplusone.com/manual.html
 https://pypi.org/project/pyMSAviz/
 ```
+
+## Basic Utalization
+* Please Run the following command:
+```bash
+$python run.py
+```
+* `run.py` is the main source. To change vairables, such as chaning the BLAST program or protein/nucleotide sequences, please edit the `config.yaml` file. For example, here is what it looks like:
+```bash
+itp :
+  program : 'blastp'
+  database : 'nr'
+  sequence : 'MCSRNIKISVVLFLVLIPIFAALPHNHNLSKRSNFFDLECKGIFNKTMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEALQLHEEMDKYNEWRDTLGRK'
+  order : 
+    Diptera : 7147
+    Orthoptera : 6993
+    Hemiptera : 7524
+    Lepidoptera : 7088
+    Blattodea : 85823
+  hit_list : 20
+  raw_folder: 'raw'
+  outfile : 'raw/raw_itp_BLAST_results.fa'
+  muscleOutput : 'raw/raw_muscled_itp_BLAST_results.fa'
+  itp_conserved_regions:
+    cys_1 : 57
+    cys_2 : 73
+    cys_3 : 76
+    cys_4 : 89
+    cys_5 : 93
+    cys_6 : 102
+  output_folder: 'output'
+  sorted_muscleFile : 'output/files/sorted_muscled_itp_BLAST_results.fa'
+  tableFile : 'output/files/table.csv'
+  weblogo : 'output/figures/weblogo.pdf'
+  pymsaviz : 'output/figures/pymsaviz.pdf'
+```
+
+## To do
+```bash
+### Try and Find tachykinin
+### Change e-values 0.001 or less have to test this out
+### Pubmeb, blast search, research paper to varify the sequence is a NO and nothing else
+### Get authentc no's to test hypothesis 
+```
