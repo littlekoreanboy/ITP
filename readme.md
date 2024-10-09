@@ -14,6 +14,14 @@ Doi : https://doi.org/10.7554/eLife.97043.1
 * It is known that Invertebrates express ITP. So to identify the receptor for ITP, we will find receptors that are only found in invertebrates. ITPR gene has not been identified. Therefore finding ITPR sequence is important
 * The conserved amino-acid cysteines are found in all ITP. Specifically, there are 6 cysteine residues
 ```
+## What is ITP
+```bash
+* ITP stands for Ion Transport Peptide
+* ITP has the following similar structure : (Signlaing Peptide) - X - KR(Propeptide 1)KR - RR(Propeptide 2)RR - X, where X represents any amino acid sequence 
+* KR, RR, RK, RRR are direct splice sites that results in one or more Propeptide isoform. Each precursor can give rise to one or more mature neuropeptides
+* Additonally, different species can have more than one mature neuropeptides
+* Interestingly, A long Propeptide (After it have been spliced) is associated as a Hormone
+``` 
 
 ## Project Task - (Timeline : 10/3/2024 - 10/7/2024)
 ```bash
@@ -44,6 +52,12 @@ https://biopython.org/docs/latest/api/Bio.Blast.NCBIWWW.html#Bio.Blast.NCBIWWW.q
 https://weblogo.threeplusone.com/manual.html
 https://pypi.org/project/pyMSAviz/
 ```
+## Before running
+* Please run this following conda if you have conda installed:
+```bash
+conda create -y -n ITP -c bioconda -c conda-forge --file installation.txt && conda activate ITP
+```
+* This conda command will install all the necessary libraries. 
 
 ## Basic Utalization
 * Please Run the following command:

@@ -18,7 +18,7 @@ def create_folders(rawFolder, outputFolder):
     if not os.path.exists(figures_folder):
         os.makedirs(figures_folder)
 
-def blastSearch(program, db, seq, order, hit):
+def blastSearch(program, db, seq, order, hit, evalue):
     blastResults = {}
     uniqueSpecieSet = set()
 
@@ -27,7 +27,8 @@ def blastSearch(program, db, seq, order, hit):
                                     database = db,
                                     sequence = seq,
                                     entrez_query = f'txid{taxID}[ORGN]',
-                                    hitlist_size = hit)
+                                    hitlist_size = hit,
+                                    expect = evalue)
         runBlast = NCBIXML.read(queryBlast)
         currentSpecieBlast = {}
 
@@ -39,10 +40,11 @@ def blastSearch(program, db, seq, order, hit):
             if speciesMatch:
                 species = speciesMatch.group(1)
                 for hsp in alignment.hsps:
-                    blastSequence = hsp.sbjct 
-                    if species not in currentSpecieBlast and len(currentSpecieBlast) < hit:
-                        currentSpecieBlast[species] = (accession, blastSequence)
-                        uniqueSpecieSet.add(species)
+                    if hsp.expect <= evalue:
+                        blastSequence = hsp.sbjct 
+                        if species not in currentSpecieBlast and len(currentSpecieBlast) < hit:
+                            currentSpecieBlast[species] = (accession, blastSequence)
+                            uniqueSpecieSet.add(species)
 
         blastResults[name] = currentSpecieBlast
 
@@ -84,6 +86,7 @@ def itpTable(fasta, tableoutput, musclesortedoutput, coordinates):
         conserved_list = []
         for cys, coord in coordinates.items():
             conserved_list.append(v[coord])
+            print(v[coord])
         order_sequence_conserved.append({'accession' : accessionID, 
                                          'order' : order, 
                                          'species' : species, 
@@ -131,6 +134,7 @@ def main():
     blastProgram = config['itp']['program']
     blastDB = config['itp']['database']
     blastSeq = config['itp']['sequence']
+    blastEvalue = config['itp']['evalue']
     blastOrder = config['itp']['order']
     blastHit = config['itp']['hit_list']
 
@@ -142,7 +146,7 @@ def main():
     weblogo = config['itp']['weblogo']
     pymsaviz = config['itp']['pymsaviz']
 
-    results = blastSearch(blastProgram, blastDB, blastSeq, blastOrder, blastHit)
+    results = blastSearch(blastProgram, blastDB, blastSeq, blastOrder, blastHit, blastEvalue)
 
     writeBlastResults(results, blastOutput)
 

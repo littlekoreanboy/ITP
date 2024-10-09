@@ -2,3 +2,4 @@ biopython
 weblogo
 pymsaviz
 yaml
+muscle
