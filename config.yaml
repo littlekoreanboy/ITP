@@ -2,7 +2,7 @@ itp :
   program : 'blastp'
   database : 'nr'
   sequence : 'MCSRNIKISVVLFLVLIPIFAALPHNHNLSKRSNFFDLECKGIFNKTMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEALQLHEEMDKYNEWRDTLGRK'
-  evalue : 0.001
+  evalue : 0.00001
   order : 
     Diptera : 7147
     Orthoptera : 6993

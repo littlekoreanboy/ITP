@@ -36,14 +36,16 @@ def blastSearch(program, db, seq, order, hit, evalue):
             speciesTitle = alignment.title
             accession = alignment.accession
             speciesMatch = re.search(r'\[(.*?)\]', speciesTitle)
+            get_description = re.search(r'\|\s*(.*?)\s*\[', speciesTitle)
 
             if speciesMatch:
                 species = speciesMatch.group(1)
+                description = get_description.group(1)
                 for hsp in alignment.hsps:
                     if hsp.expect <= evalue:
                         blastSequence = hsp.sbjct 
                         if species not in currentSpecieBlast and len(currentSpecieBlast) < hit:
-                            currentSpecieBlast[species] = (accession, blastSequence)
+                            currentSpecieBlast[species] = (accession, blastSequence, description)
                             uniqueSpecieSet.add(species)
 
         blastResults[name] = currentSpecieBlast
@@ -53,9 +55,11 @@ def blastSearch(program, db, seq, order, hit, evalue):
 def writeBlastResults(blastResults, output):
     with open(output, 'w') as file:
         for order, speciesResults in blastResults.items():
-            for species, (accession, sequence) in speciesResults.items():
-                file.write(f'>{order}|{species}|{accession}\n')
+            for species, (accession, sequence, description) in speciesResults.items():
+                file.write(f'>{accession}|{order}|{species}\n')
                 file.write(f'{sequence}\n')
+                print(f'>{accession}|{order}|{species}|{description}\n')
+                print(f'{sequence}\n')
 
 def muscle(fasta, output):
     muscleCommand = f'muscle -align {fasta} -output {output}'
@@ -86,7 +90,6 @@ def itpTable(fasta, tableoutput, musclesortedoutput, coordinates):
         conserved_list = []
         for cys, coord in coordinates.items():
             conserved_list.append(v[coord])
-            print(v[coord])
         order_sequence_conserved.append({'accession' : accessionID, 
                                          'order' : order, 
                                          'species' : species, 
@@ -97,7 +100,7 @@ def itpTable(fasta, tableoutput, musclesortedoutput, coordinates):
 
     # Order, Species, Accession ID, Yes/No
     with open(tableoutput, 'w') as out:
-        out.write('Order\tSpecies\tAccession ID\tITP Present\n')
+        out.write('Order\tSpecies\tDescription\tAccession ID\tITP Present\n')
         for blast in order_sequence_conserved:
             count_cys = 0
             for i in blast['motifs']:
@@ -105,10 +108,10 @@ def itpTable(fasta, tableoutput, musclesortedoutput, coordinates):
                     count_cys += 1
             if count_cys == 6:
                 present = 'yes'
-                out.write(f"{blast['order']}\t{blast['species']}\t{blast['accession']}\t{present}\n")
+                out.write(f"{blast['accession']}\t{blast['order']}\t{blast['species']}\t{present}\n")
             else:
                 present = 'no'
-                out.write(f"{blast['order']}\t{blast['species']}\t{blast['accession']}\t{present}\n") 
+                out.write(f"{blast['accession']}\t{blast['order']}\t{blast['species']}\t{present}\n")
 
     # Alphabetically organize muscle file
     with open(musclesortedoutput, 'w') as muscleout:

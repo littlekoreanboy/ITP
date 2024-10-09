@@ -1,0 +1,124 @@
+>Diptera|Drosophila biarmipes|XP_016947358|XP_016947358.1| ion transport peptide isoform X1
+>Diptera|Drosophila guanche|XP_034122447|XP_034122447.1| CHH-like protein
+>Diptera|Drosophila eugracilis|XP_041675766|XP_041675766.1| ion transport peptide isoform X3
+>Diptera|Drosophila obscura|XP_022232240|XP_022232240.1| ion transport peptide
+>Diptera|Drosophila yakuba|KRK00576|KRK00576.1| uncharacterized protein Dyak_GE14416, isoform E
+>Diptera|Drosophila miranda|XP_017149325|XP_017149325.2| ion transport peptide isoform X2
+>Diptera|Drosophila teissieri|XP_043641625|XP_043641625.1| ion transport peptide isoform X2
+>Diptera|Drosophila subpulchrella|XP_037713235|XP_037713235.1| ion transport peptide isoform X1
+>Diptera|Drosophila simulans|KMY96366|KMY96366.1| uncharacterized protein Dsimw501_GD11871, isoform E
+>Diptera|Drosophila erecta|KQS63129|KQS63129.1| uncharacterized protein Dere_GG22978, isoform B
+>Diptera|Drosophila pseudoobscura|XP_004444513|XP_004444513.2| ion transport peptide isoform X2
+>Diptera|Drosophila gunungcola|XP_052838267|XP_052838267.1| crustacean hyperglycemic hormone isoform X2
+>Diptera|Drosophila subobscura|XP_034651268|XP_034651268.1| ion transport peptide
+>Diptera|Drosophila ficusphila|XP_017061904|XP_017061904.1| ion transport peptide isoform X4
+>Diptera|Drosophila serrata|XP_020802230|XP_020802230.1| ion transport peptide isoform X1
+>Diptera|Drosophila suzukii|XP_065719839|XP_065719839.1| ion transport peptide isoform X1
+>Diptera|Drosophila melanogaster|NP_001163293|NP_001163293.1| Ion transport peptide, isoform E
+>Diptera|Drosophila takahashii|XP_017015314|XP_017015314.1| ion transport peptide isoform X2
+>Diptera|Drosophila montana|XP_064544346|XP_064544346.1| ion transport peptide isoform X3
+>Diptera|Drosophila rhopaloa|XP_016972509|XP_016972509.1| ion transport peptide isoform X1
+>Diptera|Drosophila hydei|XP_023177802|XP_023177802.1| ion transport peptide isoform X2
+>Diptera|Drosophila ananassae|XP_014763843|XP_014763843.1| CHH-like protein isoform X2
+>Diptera|Drosophila virilis|XP_015029224|XP_015029224.1| ion transport peptide isoform X4
+>Diptera|Drosophila bipectinata|XP_043066245|XP_043066245.1| ion transport peptide isoform X3
+>Diptera|Drosophila novamexicana|XP_030563797|XP_030563797.1| ion transport peptide isoform X2
+>Diptera|Drosophila navojoa|XP_017961756|XP_017961756.1| crustacean hyperglycemic hormones 3 isoform X2
+>Diptera|Drosophila innubila|XP_034476151|XP_034476151.1| ion transport peptide
+>Diptera|Lucilia cuprina|KAI8118156|KAI8118156.1| Ion transport peptide
+>Diptera|Drosophila arizonae|XP_017868298|XP_017868298.1| PREDICTED: ion transport peptide isoform X2
+>Diptera|Drosophila santomea|XP_039480411|XP_039480411.1| ion transport peptide isoform X1
+>Diptera|Lucilia sericata|XP_037826651|XP_037826651.1| ion transport peptide-like isoform X3
+>Diptera|Scaptodrosophila lebanonensis|XP_030368889|XP_030368889.1| ion transport peptide isoform X4
+>Diptera|Drosophila mojavensis|XP_015019118|XP_015019118.2| ion transport peptide isoform X3
+>Diptera|Drosophila willistoni|XP_015034467|XP_015034467.1| ion transport peptide isoform X2
+>Diptera|Drosophila tropicalis|XP_068145324|XP_068145324.1| CHH-like protein isoform X2
+>Diptera|Drosophila busckii|XP_017839217|XP_017839217.2| ion transport peptide isoform X3
+>Diptera|Drosophila grimshawi|XP_032590850|XP_032590850.1| ion transport peptide isoform X2
+>Diptera|Drosophila albomicans|XP_034103882|XP_034103882.1| ion transport peptide isoform X2
+>Diptera|Drosophila sulfurigaster albostrigata|XP_062129319|XP_062129319.1| ion transport peptide isoform X2
+>Diptera|Drosophila nasuta|XP_060652828|XP_060652828.1| ion transport peptide isoform X2
+>Diptera|Glossina fuscipes|XP_037896318|XP_037896318.1| ion transport peptide isoform X3
+>Diptera|Eurosta solidaginis|XP_067632584|XP_067632584.1| ion transport peptide
+>Diptera|Teleopsis dalmanni|XP_037950158|XP_037950158.1| ion transport peptide-like
+>Diptera|Anastrepha obliqua|XP_054737388|XP_054737388.1| ion transport peptide isoform X2
+>Diptera|Anastrepha ludens|XP_053965207|XP_053965207.1| ion transport peptide isoform X2
+>Diptera|Bactrocera latifrons|XP_018793672|XP_018793672.1| PREDICTED: ion transport peptide isoform X3
+>Orthoptera|Schistocerca piceifrons|XP_047113407|XP_047113407.1| ion transport peptide
+>Orthoptera|Schistocerca americana|XP_046994844|XP_046994844.1| ion transport peptide isoform X2
+>Orthoptera|Anabrus simplex|XP_067002616|XP_067002616.1| ion transport peptide isoform X2
+>Orthoptera|Schistocerca cancellata|XP_049778633|XP_049778633.1| ion transport peptide-like isoform X1
+>Orthoptera|Locusta migratoria|AAD20820|AAD20820.1| prepro ion transport peptide
+>Orthoptera|Gryllus bimaculatus|XCA47740|XCA47740.1| ITP
+>Orthoptera|Gryllus longicercus|KAK7864306|KAK7864306.1| hypothetical protein R5R35_009560
+>Orthoptera|Schistocerca gregaria=locusts, corpus cardiacum, Peptide, 34 aa|AAB25068|AAB25068.1| ion-transport peptide, Scg-ITP=neuropeptide
+>Hemiptera|Laodelphax striatellus|RZF46876|RZF46876.1| hypothetical protein LSTR_LSTR008257
+>Hemiptera|Adelges cooleyi|XP_050429989|XP_050429989.1| CHH-like protein isoform X2
+>Hemiptera|Rhopalosiphum padi|XP_060851819|XP_060851819.1| ion transport peptide isoform X2
+>Hemiptera|Aphis gossypii|XP_027842052|XP_027842052.2| ion transport peptide isoform X2
+>Hemiptera|Melanaphis sacchari|XP_025198793|XP_025198793.1| ion transport peptide isoform X2
+>Hemiptera|Sipha flava|XP_025405401|XP_025405401.1| CHH-like protein isoform X2
+>Hemiptera|Cyamophila willieti|KAL1462380|KAL1462380.1| hypothetical protein WDU94_014218
+>Hemiptera|Homalodisca vitripennis|KAG8312633|KAG8312633.1| hypothetical protein J6590_018273
+>Hemiptera|Macrosteles quadrilineatus|XP_054278291|XP_054278291.1| ion transport peptide-like isoform X2
+>Hemiptera|Nilaparvata lugens|XP_039277956|XP_039277956.1| ion transport peptide-like isoform X2
+>Hemiptera|Sogatella furcifera|QDZ26133|QDZ26133.1| ion transport protein
+>Hemiptera|Lygus hesperus|QQW38911|QQW38911.1| prepro-ion transport peptide-like variant 1
+>Hemiptera|Cinara cedri|VVC30324|VVC30324.1| Hypothetical protein CINCED_3A014404
+>Hemiptera|Acyrthosiphon pisum|XP_016662735|XP_016662735.1| ion transport peptide-like isoform X1
+>Hemiptera|Metopolophium dirhodum|XP_060864237|XP_060864237.1| ion transport peptide-like
+>Hemiptera|Diuraphis noxia|XP_015370790|XP_015370790.1| PREDICTED: ion transport peptide-like
+>Hemiptera|Cimex lectularius|XP_014256376|XP_014256376.1| ion transport peptide-like isoform X1
+>Hemiptera|Halyomorpha halys|XP_014274477|XP_014274477.1| ion transport peptide-like isoform X2
+>Hemiptera|Rhodnius prolixus|ACZ96371|ACZ96371.1| ion transport protein isoform B
+>Hemiptera|Nezara viridula|AZK31344|AZK31344.1| neuropeptide precursor
+>Hemiptera|Diaphorina citri|XP_026683192|XP_026683192.1| ion transport peptide-like isoform X1
+>Hemiptera|Planococcus citri|XP_065215707|XP_065215707.1| ion transport peptide-like isoform X1
+>Hemiptera|Bemisia tabaci|XP_018900375|XP_018900375.1| PREDICTED: ion transport peptide-like isoform X1
+>Hemiptera|Aphis craccivora|KAF0763658|KAF0763658.1| crustacean hyperglycemic hormones A isoform X2
+>Hemiptera|Nesidiocoris tenuis|BES90366|BES90366.1| Ion transport peptide
+>Hemiptera|Apolygus lucorum|KAF6216817|KAF6216817.1| hypothetical protein GE061_001167
+>Hemiptera|Daktulosphaira vitifoliae|XP_050526004|XP_050526004.1| ion transport peptide-like isoform X2
+>Lepidoptera|Iphiclides podalirius|CAH2042689|CAH2042689.1| unnamed protein product, partial
+>Lepidoptera|Pararge aegeria|XP_039758969|XP_039758969.1| CHH-like protein isoform X2
+>Lepidoptera|Maniola hyperantus|XP_034835467|XP_034835467.1| CHH-like protein
+>Lepidoptera|Hyposmocoma kahamanoa|XP_026320432|XP_026320432.1| ion transport peptide-like isoform X2
+>Lepidoptera|Bicyclus anynana|XP_052743944|XP_052743944.1| CHH-like protein isoform X2
+>Lepidoptera|Plutella xylostella|XP_048483541|XP_048483541.1| CHH-like protein isoform X2
+>Lepidoptera|Melitaea cinxia|XP_045452465|XP_045452465.1| CHH-like protein isoform X2
+>Lepidoptera|Helicoverpa zea|XP_047031536|XP_047031536.1| CHH-like protein isoform X1
+>Lepidoptera|Spodoptera litura|XP_022814187|XP_022814187.1| CHH-like protein isoform X2
+>Lepidoptera|Bombyx mori|NP_001106139|NP_001106139.1| CHH-like protein precursor
+>Lepidoptera|Papilio xuthus|XP_013162939|XP_013162939.1| PREDICTED: CHH-like protein isoform X2
+>Lepidoptera|Nymphalis io|XP_050352185|XP_050352185.1| CHH-like protein isoform X1
+>Lepidoptera|Vanessa tameamea|XP_026496486|XP_026496486.1| CHH-like protein isoform X2
+>Lepidoptera|Chilo suppressalis|CAH2984761|CAH2984761.1| unnamed protein product
+>Lepidoptera|Mythimna loreyi|KAJ8717466|KAJ8717466.1| hypothetical protein PYW08_005865
+>Lepidoptera|Ostrinia furnacalis|XP_028165534|XP_028165534.1| CHH-like protein isoform X3
+>Lepidoptera|Ostrinia nubilalis|XP_063830860|XP_063830860.1| CHH-like protein isoform X2
+>Lepidoptera|Cydia pomonella|XP_061720438|XP_061720438.1| CHH-like protein isoform X2
+>Lepidoptera|Leguminivora glycinivorella|XP_047996720|XP_047996720.1| CHH-like protein isoform X2
+>Lepidoptera|Danaus plexippus|XP_061384296|XP_061384296.1| CHH-like protein isoform X2
+>Lepidoptera|Loxostege sticticalis|KAL0820130|KAL0820130.1| hypothetical protein ABMA28_006068
+>Lepidoptera|Grapholita molesta|QOL70784|QOL70784.1| ion transport peptide
+>Lepidoptera|Manduca sexta|XP_037295133|XP_037295133.1| CHH-like protein isoform X3
+>Lepidoptera|Tuta absoluta|KAJ2948259|KAJ2948259.1| hypothetical protein O0L34_g7489
+>Lepidoptera|Pieris rapae|XP_022119612|XP_022119612.1| CHH-like protein isoform X2
+>Lepidoptera|Pieris napi|XP_047503358|XP_047503358.1| CHH-like protein
+>Lepidoptera|Leptidea sinapis|XP_050682721|XP_050682721.1| CHH-like protein
+>Lepidoptera|Eumeta japonica|GBP61970|GBP61970.1| Ion transport peptide-like
+>Lepidoptera|Zerene cesonia|XP_038211052|XP_038211052.1| CHH-like protein isoform X3
+>Lepidoptera|Battus philenor|XP_068620260|XP_068620260.1| ion transport peptide-like
+>Lepidoptera|Galleria mellonella|XP_031765717|XP_031765717.2| CHH-like protein isoform X2
+>Lepidoptera|Achroia grisella|XP_059059687|XP_059059687.1| CHH-like protein isoform X2
+>Lepidoptera|Plodia interpunctella|XP_053614328|XP_053614328.1| CHH-like protein isoform X2
+>Lepidoptera|Colias croceus|XP_045502041|XP_045502041.1| CHH-like protein
+>Lepidoptera|Pieris brassicae|XP_045527628|XP_045527628.1| CHH-like protein
+>Lepidoptera|Pectinophora gossypiella|XP_049877130|XP_049877130.1| CHH-like protein isoform X2
+>Lepidoptera|Amyelois transitella|XP_013196239|XP_013196239.1| CHH-like protein isoform X2
+>Lepidoptera|Pararge aegeria aegeria|CAH2232398|CAH2232398.1| jg20991
+>Lepidoptera|Trichoplusia ni|XP_026743808|XP_026743808.1| CHH-like protein isoform X2
+>Blattodea|Blattella germanica|PSN44322|PSN44322.1| Ion transport peptide
+>Blattodea|Cryptotermes secundus|PNF40623|PNF40623.1| Ion transport peptide-like
+>Blattodea|Coptotermes formosanus|GFG36534|GFG36534.1| hypothetical protein Cfor_06160
+>Blattodea|Diploptera punctata|KAJ9587004|KAJ9587004.1| hypothetical protein L9F63_019401
