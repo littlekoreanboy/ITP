@@ -1,7 +1,7 @@
 itp :
   program : 'blastp'
   database : 'nr'
-  sequence : 'MCSRNIKISVVLFLVLIPIFAALPHNHNLSKRSNFFDLECKGIFNKTMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEALQLHEEMDKYNEWRDTLGRK'
+  sequence : 'MNCKPLILCTFVAVAMCLVHFGNALPAISHYTHKRFDSMGGIDFVQVCLNNCVQCKTMLGDYFQGQTCALSCLKFKGKAIPDCEDIASIAPFLNALE'
   evalue : 0.00001
   order : 
     Diptera : 7147
@@ -11,8 +11,8 @@ itp :
     Blattodea : 85823
   hit_list : 50
   raw_folder: 'raw'
-  outfile : 'raw/raw_itp_BLAST_results.fa'
-  muscleOutput : 'raw/raw_muscled_itp_BLAST_results.fa'
+  outfile : 'raw/raw_eclosion_hormone_BLAST_results.fa'
+  muscleOutput : 'raw/raw_muscled_eclosion_hormone_BLAST_results.fa'
   itp_conserved_regions:
     cys_1 : 58
     cys_2 : 74
@@ -21,12 +21,14 @@ itp :
     cys_5 : 94
     cys_6 : 103
   output_folder: 'output'
-  sorted_muscleFile : 'output/files/sorted_muscled_itp_BLAST_results.fa'
+  sorted_muscleFile : 'output/files/sorted_muscled_eclosion_hormone_BLAST_results.fa'
   tableFile : 'output/files/table.csv'
-  weblogo : 'output/figures/weblogo.pdf'
-  pymsaviz : 'output/figures/pymsaviz.pdf'
+  weblogo : 'output/figures/eclosion_hormone_weblogo.pdf'
+  pymsaviz : 'output/figures/eclosion_hormone_pymsaviz.pdf'
 
 
 ### Try and Find tachykinin
 ### Pubmeb, blast searhc, research paper to varify the sequence is a NO and nothing else
 ### Get authentc no's to test hypothesis 
+### ITPa Sequence : MCSRNIKISVVLFLVLIPIFAALPHNHNLSKRSNFFDLECKGIFNKTMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEALQLHEEMDKYNEWRDTLGRK
+### Negative Sequence (eclosion hormone) : MNCKPLILCTFVAVAMCLVHFGNALPAISHYTHKRFDSMGGIDFVQVCLNNCVQCKTMLGDYFQGQTCALSCLKFKGKAIPDCEDIASIAPFLNALE

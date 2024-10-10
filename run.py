@@ -56,10 +56,8 @@ def writeBlastResults(blastResults, output):
     with open(output, 'w') as file:
         for order, speciesResults in blastResults.items():
             for species, (accession, sequence, description) in speciesResults.items():
-                file.write(f'>{accession}|{order}|{species}\n')
+                file.write(f'>{accession}|{order}|{species}|{description}\n')
                 file.write(f'{sequence}\n')
-                print(f'>{accession}|{order}|{species}|{description}\n')
-                print(f'{sequence}\n')
 
 def muscle(fasta, output):
     muscleCommand = f'muscle -align {fasta} -output {output}'
@@ -98,25 +96,11 @@ def itpTable(fasta, tableoutput, musclesortedoutput, coordinates):
             
     order_sequence_conserved = sorted(order_sequence_conserved, key=lambda x: x['order'])
 
-    # Order, Species, Accession ID, Yes/No
-    with open(tableoutput, 'w') as out:
-        out.write('Order\tSpecies\tDescription\tAccession ID\tITP Present\n')
-        for blast in order_sequence_conserved:
-            count_cys = 0
-            for i in blast['motifs']:
-                if i == 'C':
-                    count_cys += 1
-            if count_cys == 6:
-                present = 'yes'
-                out.write(f"{blast['accession']}\t{blast['order']}\t{blast['species']}\t{present}\n")
-            else:
-                present = 'no'
-                out.write(f"{blast['accession']}\t{blast['order']}\t{blast['species']}\t{present}\n")
-
     # Alphabetically organize muscle file
     with open(musclesortedoutput, 'w') as muscleout:
         for blast in order_sequence_conserved:
             muscleout.write(f'>{blast['order']}|{blast['species']}|{blast['accession']}\n{blast['sequence']}\n')
+
 
 def visualization(muscle_path, weblogo_out, pymsaviz_out):
     

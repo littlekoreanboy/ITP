@@ -1,0 +1,960 @@
+>XP_037728877|Diptera|Drosophila subpulchrella
+---MNCKSLI---LCTFVTV-AV----CL-VHFG--NAMP--------A---INHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_026485475|Lepidoptera|Vanessa tameamea
+-----------------VAV-FL----CI-LDHV--NTNP--------A---IA--------------------------
+--------------TGYDP---------------------FEICIENCAQCKKMLGAWFEGSLCAESCIK---FKGK---
+--LIPECEDFASIAPFLNK-L
+>XP_027842052|Hemiptera|Aphis gossypii
+-----------------------------------------------------DHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRSTCFNTVYFKACLES
+LQMLTEETQYNQMVEFLGK-K
+>XP_023177802|Diptera|Drosophila hydei
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACVEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_050349449|Lepidoptera|Nymphalis io
+-----------------VAV-FL----SY-LDHI--NTNP--------A---IA--------------------------
+--------------TGYDP---------------------FEICIENCAQCKKMLGAWFEGSLCAESCIK---FKGK---
+--LIPECEDFASIAPFLNK-L
+>XP_017076592|Diptera|Drosophila eugracilis
+---MNCKPLI---LCTFVAV-AV----CL-LHVG--NALP--------A---ISRYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_037950158|Diptera|Teleopsis dalmanni
+---MCSRNIK---IS--LVL-FL----VL-IPLI--TALP--------H---NNHNLAKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETTIHRLCKQDCFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGK-K
+>XP_060652828|Diptera|Drosophila nasuta
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSQFFNACVES
+LQLHDDMDKYNEWRDTLGR-K
+>XP_017023414|Diptera|Drosophila kikkawai
+---MNCKPLI---LCTFVAV-AL----CL-VHYG--GALP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_034476151|Diptera|Drosophila innubila
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACVEA
+LQLHEEMDKYNEWRDTLGR-K
+>KAL0820130|Lepidoptera|Loxostege sticticalis
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCREKCFTTPYFKGCMES
+LYLYDEEEQIDQMIDYVGK-R
+>XP_025192931|Hemiptera|Melanaphis sacchari
+--------------------------------------------------------------------------------
+----------------------------------------VGLCIRNCAQCKKMLGDYFEGSLCADACVK---FKGK---
+--MIPDCENIESVSPFLNKLE
+>CAH0723274|Lepidoptera|Brenthis ino
+-----------------MAV-F-----MC-MENV--SASP--------A---IA--------------------------
+--------------MGYNP---------------------MEICFENCAQCKKMLGAWFEGPLCAESCIK---FKGK---
+--LIPECEDFASIAPFLNK-L
+>XP_023173786|Diptera|Drosophila hydei
+---L-----L---LASIALA-TL----CL-LQYG--EALP--------S---IGHY-GKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>BES90366|Hemiptera|Nesidiocoris tenuis
+---A---RL---------VV-ASTLLICL-LAGP--ASKV-------IM----GSPLWERGFS-----------------
+---FF--D--LQCRGIYDK-------------------SIFARLDRICEDCYNVFREPSLHSLCRSNCFNSEYFDGCVNV
+LLLEGEAKSIKDMVNYI---G
+>XP_054737388|Diptera|Anastrepha obliqua
+---MCSRNIK---IS--VVL-FL----VL-IPLI--TALP--------H---NNHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSAFFSACVEA
+LQLHEEMDKYNEWRGTLGK-K
+>XP_015365027|Hemiptera|Diuraphis noxia
+--------------------------------------------------------------------------------
+----------------------------------------VAMCIRNCAQCKKMLGDYFEGSLCADSCVK---FKGK---
+--MIPDCENIDSISPFLNKLE
+>GFG31331|Blattodea|Coptotermes formosanus
+--------------------------------------------------------------------------------
+----------------------------------------IGVCIRNCAQCKKMFGPYFEGQLCAEACVK---FKGK---
+--MIPDCEDITSIAPFLNKFE
+>QOL70784|Lepidoptera|Grapholita molesta
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCRAKCFTTPYFKGCMES
+LYLYDEEEQIDQMVDFVG--R
+>XP_067632584|Diptera|Eurosta solidaginis
+---MCSRNIK---IS--VVL-FL----VL-IPLI--TALP--------H---NNHSLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSAFFSACVEA
+LQLHEEMDKYNEWRDTLGK-K
+>KAJ8717466|Lepidoptera|Mythimna loreyi
+------------------LV-A-----VV-L-GA--TAQH-------SP----PHHVSRR--S-----------------
+---FF--A--LECKGVFDA-------------------AMFARLDRICDDCYNLFREPELYTLCRKDCFTTKYFKGCVEV
+LQETDQLETFKE--------Y
+>XP_037713235|Diptera|Drosophila subpulchrella
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_017061904|Diptera|Drosophila ficusphila
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_064549850|Diptera|Drosophila montana
+---NN-KTLL---LLSIALT-AL----CL-LQCG--EALP--------S---IGHY-GKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>XP_017015578|Diptera|Drosophila takahashii
+---MNCKPLI---MCTFVAV-AV----CL-LHFG--NAMP--------A---INHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_028165534|Lepidoptera|Ostrinia furnacalis
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCREKCFTTPYFKGCMES
+LYLYDEEEQIDQMIDYVGK-R
+>XP_026496486|Lepidoptera|Vanessa tameamea
+-----------------------------------------------------SHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCRSKCFTSPYFKGCMES
+LYLYDEEEQIDQMIDFIGK-R
+>XP_020802230|Diptera|Drosophila serrata
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_018900375|Hemiptera|Bemisia tabaci
+-----------------------------------------------------GHSFNKR--S-----------------
+---FF--N--LECKGVYDK-------------------SIFAKLDRICEDCYNLFREPQLHSQCRKNCFTTDYFKGCLEV
+LLLEDEMEKIQT--------W
+>XP_026320432|Lepidoptera|Hyposmocoma kahamanoa
+-------SVQ---VM--CAA-LLT----L-ALTC--TALPGG-----QR----EHHITRR--S-----------------
+---FY--D--LQCKGVYDQ-------------------VMFNRLDRVCDDCYNLFRESQLFNLCRADCFTSDYFKGCVEA
+LLLNENLDTYKK--------Y
+>CAH2059693|Lepidoptera|Iphiclides podalirius
+---MFSKSSI---LFAFLVL-SA----IC-VNQV--RANP--------A---IA--------------------------
+--------------HGYDT---------------------LEICLENCAQCKKMLGSWFEGPLCAESCVK---YRGR---
+--LIPDCEDFASIAPFLNK-L
+>QDZ26131|Hemiptera|Sogatella furcifera
+--------------------------------------------------------------------------------
+----------------------------------------IGVCIRNCAQCKKMFGAYFEGQLCADACVK---FKGK---
+--LLPDCEDVASIAPFLNKLE
+>XP_038211052|Lepidoptera|Zerene cesonia
+------------------------------------AST--------------PHHVARR--S-----------------
+---FF--N--LQCKGVFDA-------------------AIFARLDRICDDCYTLFREPQLYSLCRSNCFTTPYFKGCMES
+LCLMDEEEELDQLIDFIGK-R
+>XP_046998725|Orthoptera|Schistocerca americana
+--------------------------------------------------------------------------------
+----------------------------------------VSVCIRNCAQCKKMYGPYFEGQLCADACLK---FNGK---
+--MMPDCEDAASIAPFLNKLE
+>XP_027841310|Hemiptera|Aphis gossypii
+--------------------------------------------------------------------------------
+----------------------------------------VAICIRNCAQCKKMLGDYFEGSLCADTCVK---FKGK---
+--MIPDCENIESISPFLNKLE
+>CAF4906380|Lepidoptera|Pieris macdunnoughi
+-------------LFTFVAI-LI----IC-VINI--EANP--------A---IA--------------------------
+--------------TGYDP---------------------LEVCIENCAQCKKMLGAWFEGHLCAESCLE---MKGK---
+--RIPECENFASIAPFINR-L
+>XP_043066245|Diptera|Drosophila bipectinata
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHDEMDKYNEWRDTLGR-K
+>BFF92544|Diptera|Drosophila madeirensis
+---MNAKPLV---LCTVVVV-AL----SL-LHFG--EALP--------S---IGHY-GKR--F-----------------
+-------D--A--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_037896318|Diptera|Glossina fuscipes
+---MCSRNIK---IS--VAL-FL----IL-VPIF--TALP--------H----SHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACIEA
+LQLHEDMEKYNEWRDTLGK-K
+>XP_024214295|Hemiptera|Halyomorpha halys
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMFGAYFEGQLCADTCLK---FKGK---
+--LIPDCEDVASIGPFLNRID
+>XP_039480411|Diptera|Drosophila santomea
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDSICEDCYQLFRHTSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_060833351|Hemiptera|Rhopalosiphum padi
+--------------------------------------------------------------------------------
+----------------------------------------VAICIRNCAQCKKMLGDYFEGSLCADACVK---FKGK---
+--MIPDCENIESVAPFLNKLE
+>XP_046675161|Hemiptera|Homalodisca vitripennis
+--------------------------------------------------------------------------------
+----------------------------------------IGTCIRNCAQCKKMFGSYFEGQLCADSCLK---FKGK---
+--LIPDCEDVASIAPFLNKFE
+>XP_046968331|Lepidoptera|Vanessa cardui
+-----------------VVI-F-----FC-VDHI--NATP--------A---IA--------------------------
+--------------TGWDP---------------------LEICLENCAQCKKMFGSWFEGPLCAKSCIQ---FKGK---
+--LIPDCEDLASIAPFLNK-L
+>XP_026821131|Hemiptera|Rhopalosiphum maidis
+--------------------------------------------------------------------------------
+----------------------------------------VAICIRNCAQCKKMLGDYFEGSLCADTCVK---FKGK---
+--MIPDCENIESISPFLNKLE
+>XP_050429360|Hemiptera|Adelges cooleyi
+--------------------------------------------------------------------------------
+----------A--MADMAD---------------------VGMCIRNCAQCKKMLGAYFEGPLCADACVK---FKGK---
+--MIPDCENIDSVAPFLNKLE
+>XP_045452465|Lepidoptera|Melitaea cinxia
+---------------------------------------P--------P----PHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYNLCRSKCFTSPYFKGCMES
+LYLYDEEEQLDQMIDFIGK-R
+>KAH8310887|Diptera|Drosophila immigrans
+------KNLM---MLSMAMT-II----CI-LQLG--DTYP--------S---IGHY-GKR--F-----------------
+-------D--P--MSGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>XP_063827335|Lepidoptera|Ostrinia nubilalis
+---LA--------LFTVLAL-A-----IN-FGNV--AASP--------A---IA--------------------------
+--------------TGYDA---------------------MEICIENCAQCKKMLGAWFEGPLCAESCIK---FKGK---
+--LIPECEDFASISPFLNK-L
+>XP_068620260|Lepidoptera|Battus philenor
+---------------------------------------P--------S----THHVARR--S-----------------
+---FF--K--LQCKGIYDA-------------------SIFARLDRICDDCYNLFREPSLYNLCREDCFTTDYFKGCVEV
+LQETDQLELFKE--------Y
+>XP_026683192|Hemiptera|Diaphorina citri
+-----------------------------------------------------GHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYDLFRAPQIHTLCRKDCFTSDYFKGCLEV
+LRLTDESD------------S
+>XP_028160674|Lepidoptera|Ostrinia furnacalis
+---I------------------------N-FGNV--AASP--------A---IA--------------------------
+--------------TGYDA---------------------MEICIENCAQCKKMLGAWFEGPLCAESCIK---FKGK---
+--LIPECEDFASISPFLNK-L
+>KAG6453948|Lepidoptera|Manduca sexta
+--------------------------------------------------------------------------------
+---------------GYDP---------------------MEICIENCAQCKKMLGAWFEGPLCAESCIK---FKGK---
+--LIPECEDFASIAPFLNK-L
+>XP_068625413|Lepidoptera|Battus philenor
+---------------------------------------Y--------S---VI--------------------------
+--------------GGFDF---------------------VEVCIENCAQCKKMLGGWFNGPLCAESCIR---HRGK---
+--TIPDCEDFASIAPFLTK-I
+>XP_059059687|Lepidoptera|Achroia grisella
+----------------------------------------------------------RR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCRAKCFTTPYFKGCMES
+LYLYDEEEQIDQMIDFVGK-R
+>CAH3994146|Lepidoptera|Pieris brassicae
+-------------LFTFVAI-LI----IC-IINI--EANP--------A---IA--------------------------
+--------------TGYDP---------------------LEVCIENCAQCKKMLGAWFEGHLCAESCLE---MKGK---
+--RIPECENFASIAPFINR-L
+>GFG36534|Blattodea|Coptotermes formosanus
+-------SLL---VS--MIV-T-----SL-LARS--SSGL-------VL----GHSLNKR--S-----------------
+---FF--E--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRKNCFTTDYFKGCLDV
+LLLQDEMEKYQT--------W
+>GLG96828|Orthoptera|Gryllus bimaculatus
+--------------------------------------------------------------------------------
+----------------------------------------VGLCVRNCAQCKKMFGPYFEGQLCADSCVK---FKGK---
+--LVPDCEDFASIAPFFNKLE
+>XP_016662735|Hemiptera|Acyrthosiphon pisum
+-----------------------------------------------------DHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRKNCFTTDFFKGCLDV
+LLLEDEVEKIQK--------W
+>XP_002069674|Diptera|Drosophila willistoni
+---KMT---T---LMTILLL-SYC-ILSL-MDAG--EALP--------S---IGHY-GKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>KAH8271304|Diptera|Drosophila ironensis
+---MDSKPLI---LCTFVAV-AL----CL-MHFG--AAVP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_002054410|Diptera|Drosophila virilis
+---NN-RTLL---LLSIVLT-AL----CL-LQCG--EALP--------S---IGHY-GKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>EDV43680|Diptera|Drosophila ananassae
+---MYSKPLI---LCTFVAI-AL----CL-LHFG--SAVP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>KAJ9587004|Blattodea|Diploptera punctata
+------------------IL-ISIMITSL-VAVP--ASGR-------VL----GHSVSKR--S-----------------
+---FF--E--LQCKGVFDK-------------------TIFARLDRVCEDCYNLFREPHLHTLCRQDCFTTDYFKGCMDV
+L-LEDDIEKYQS--------W
+>XP_060872895|Hemiptera|Metopolophium dirhodum
+---FLA---A---AATLVL---------------------------------IGI-------------------------
+-------VGYT--TADMAD---------------------VAVCIRNCAQCKKMLGDYFEGPLCADACVK---FKGK---
+--MIPDCENIDSIAPFLNKLE
+>XP_025405401|Hemiptera|Sipha flava
+------------------------------------------------------HPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRSTCFNTVYFKACLES
+LQMLTEEAQYNQMVEFLGK-K
+>XP_047031536|Lepidoptera|Helicoverpa zea
+-----------------------------------------------------SHHVARR--S-----------------
+---FF--T--LECKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCREKCFTSPYFKGCMES
+LYLYDEKEQIDQMIDFVGK-R
+>XP_017961756|Diptera|Drosophila navojoa
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACVEA
+LQLHEDMDKYNEWRDTLGR-K
+>KAH8407926|Diptera|Zaprionus bogoriensis
+------KCLM---LFNMILA-TL----CL-LQFG--DALP--------S---IGHY-SKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQMCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>XP_068145324|Diptera|Drosophila tropicalis
+---MCSRKIK---IS--VML-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACIEA
+LQLHEEMDQYNEWRETLGR-K
+>XP_050352185|Lepidoptera|Nymphalis io
+-----------------------------------------------------SHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYALCRSKCFTSPYFKGCMES
+LYLYDEEEQIDQMIDFIGK-R
+>XP_034103882|Diptera|Drosophila albomicans
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSQFFNACVES
+LQLHDDMDKYNEWRDTLGR-K
+>XP_017149325|Diptera|Drosophila miranda
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>CAD6994269|Diptera|Ceratitis capitata
+---KST---I---FAAAIAV-AL--LCVH-VPAA--DALP--------S---IGHY-GKR--F-----------------
+-------D--T--MSGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>CAK1579554|Lepidoptera|Parnassius mnemosyne
+----------------------------I-MHHV--KSNP--------V---IA--------------------------
+--------------NGYDP---------------------MEICIENCAQCKKMLGAWFEGPLCAKSCIK---FKGK---
+--LIPECEDFASISPFLNK-L
+>XP_053605623|Lepidoptera|Plodia interpunctella
+PLKMASRMTSALVLLAMITV-L-----SN-IGHV--QSNP--------A---IA--------------------------
+--------------TGYDP---------------------LEICIENCAQCKKMLGAWFDGPLCAESCIK---FKGK---
+--LIPECENFASISPFLNK-L
+>AZK31344|Hemiptera|Nezara viridula
+---R---RAL---AG--LVV-ASTLLSCL-VAVP--TSRS-------IM----GHPLNKR--S-----------------
+---FF--D--LSCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRKNCFTTDYFKGCLDV
+LLLQDEMENIQT--------W
+>XP_030563797|Diptera|Drosophila novamexicana
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACVEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_016972509|Diptera|Drosophila rhopaloa
+---MCSRTIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_054267825|Hemiptera|Macrosteles quadrilineatus
+--------------------------------------------------------------------------------
+----------------------------------------IGTCIRNCAQCKKMFGVYFEGQLCADACVK---FKGK---
+--LVPDCEDVASIAPFLNKFE
+>KMZ02989|Diptera|Drosophila simulans
+---MNCKPLI---LCTFVAV-AM----CL-VHFG--NALP--------A---ISHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>PSN32286|Blattodea|Blattella germanica
+--------------------------------------------------------------------------------
+----------------------------------------INICIKNCAQCKKLFGPYFEGQLCADACVK---FKGK---
+--MIPDCEDINSIAPFLNKFE
+>XP_015029224|Diptera|Drosophila virilis
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACVEA
+LQLHEEMDKYNEWRDTLGR-K
+>KAH8292175|Diptera|Drosophila jambulina
+---MNCKPLI---VCTFLAV-AL----CL-VQYG--GALP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_064544346|Diptera|Drosophila montana
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACVEA
+LQLHEEMDKYNEWRDTLGR-K
+>KAH8264620|Diptera|Drosophila bunnanda
+---MNCKPLI---LCTFLAV-AL----CL-VHYG--GALP--------A---IGHYTHKR--FGKFPETIHFESVVLTSI
+LSLMFPLD--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_050535512|Hemiptera|Daktulosphaira vitifoliae
+--------------------------------------------------------------------------------
+----------------------------------------VGMCLRNCAQCKKMLGAYFEGPLCADSCVK---FKGK---
+--MIPDCENFDSVSPFLNKLE
+>KAI5637769|Lepidoptera|Phthorimaea operculella
+---L---------FAVFVAV-AF----LT-LDPV--ECSP--------A---IA--------------------------
+--------------TGYDQ---------------------IQICLDNCVQCRAMLGAWFEGPLCAESCLK---LKGK---
+--VIPECEDFASIAPFLNK-L
+>NP_001106139|Lepidoptera|Bombyx mori
+------------------------------------GALP-------SS---APHHVERR--S-----------------
+---FF--T--LECKGVFDA-------------------AIFARLDRICDDCFNLFREPQLYTLCRAECFTTPYFKGCMES
+LYLYDEKEQIDQMIDFVGK-R
+>XP_017118661|Diptera|Drosophila elegans
+---MNCKPLI---LCTFVAV-AL----CV-MHFG--NAVP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_049766811|Orthoptera|Schistocerca cancellata
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMFGPYFEGQLCGDACLK---FKGK---
+--MVPDCEDAASIAPFLSKLE
+>XP_043641625|Diptera|Drosophila teissieri
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_013114896|Diptera|Stomoxys calcitrans
+-----------------VAI-GF----AF-MQFS--QAMP--------S---ISHY-GKR--F-----------------
+-------D--S--MSGIDY---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDLPSIAPFLNTLE
+>KAH8388503|Diptera|Drosophila rubida
+------KNLM---MLSMALM-II----CL-LQIG--DTYP--------S---IGHY-NKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>XP_014763843|Diptera|Drosophila ananassae
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHDEMDKYNEWRDTLGR-K
+>KMY96366|Diptera|Drosophila simulans
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>CAI6364094|Hemiptera|Macrosiphum euphorbiae
+--------------------------------------------------------------------------------
+----------------------------------------VGMCIRNCAQCKKMLGAYFEGPLCADACVK---FKGK---
+--MIPDCENIDSVAPFLNKLE
+>XP_022814187|Lepidoptera|Spodoptera litura
+-----------------------------------------------------SHHVARR--S-----------------
+---FF--T--LECKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYNLCREKCFTSPYFKGCMES
+LYLYDEKEQIDQMIDFVGK-R
+>XP_008484466|Hemiptera|Diaphorina citri
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMLGLYFEGQLCAEACVK---FKGK---
+--MIPDCENIDSISPFLNKLE
+>XP_034661289|Diptera|Drosophila subobscura
+---MNAKPLV---LCTVVVV-AL----SL-LHFG--DALP--------S---IGHY-GKR--F-----------------
+-------D--A--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_044315025|Diptera|Drosophila rhopaloa
+---MNCKPLI---LCTFVAV-AL----CL-VHFG--NAVP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_067002616|Orthoptera|Anabrus simplex
+-------ALL---AS--VLV-SS----LLASPTSSAGGMV--------L----GHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRSKCFSSEYFEGCLDT
+LQLKEEEEKYNQMVQFLGK-K
+>XP_001358326|Diptera|Drosophila pseudoobscura
+---MNTKPLV---LCTVVVV-AL----SL-LQFG--DALP--------S---IGHY-GKR--F-----------------
+-------D--A--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_049961506|Orthoptera|Schistocerca serialis cubense
+--------------------------------------------------------------------------------
+-----------------NV---------------------VSVCIRNCAQCKKMYGPYFEGQLCADACLK---FNGK---
+--MMPDCEDAASIAPFLNKLE
+>XP_050429989|Hemiptera|Adelges cooleyi
+------------------------------------------------------HPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRSTCFNTVYFKACLES
+LQLLTEETQYNQMVDFLGK-K
+>XP_053614328|Lepidoptera|Plodia interpunctella
+------------------------------------------------------HHVARR--S-----------------
+---FF--T--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLFTLCRAKCFTTPYFKGCMES
+LYLYDEEEQIDQMIDFVGK-R
+>KAI8118156|Diptera|Lucilia cuprina
+---MCSRNIK---IS--VVL-FL----VL-IPLF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGK-K
+>XP_013162939|Lepidoptera|Papilio xuthus
+------------------------------------------------------HHVARR--S-----------------
+---FF--K--LQCKGIYDA-------------------SIFARLDRICDDCYNLFREPSLYNLCRQECFQSKYFDGCVET
+LLLTDEKEEIEQLVDYLGK-R
+>QKX95852|Lepidoptera|Heortia vitessoides
+--------------------------------------------------------------------------------
+---------------GYDA---------------------MEICIENCAQCKKMLGAWFEGPLCAESCIK---FKGK---
+--LIPECEDFASISPFLNK-L
+>XP_031765717|Lepidoptera|Galleria mellonella
+----------------------------------------------------------RR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCRAKCFTTPYFKGCMES
+LYLYDEEEQIDQMIDFVGK-R
+>XP_046994844|Orthoptera|Schistocerca americana
+-------GVV---LC--VLV-VA----SL-VSTA--ASSP-------LD----PHHLAKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRSDCFKSPYFKGCLQA
+LLLIDEEEKFNQMVEILGK-K
+>XP_061384296|Lepidoptera|Danaus plexippus
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPTLFTLCRSKCFTSPYFKGCMES
+LYLYDEEEQLDQMIDFIGK-R
+>XP_025198793|Hemiptera|Melanaphis sacchari
+-----------------------------------------------------DHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRSTCFNTVYFKACLES
+LQMLTEETQYNQMVEFLGK-K
+>XP_016662241|Hemiptera|Acyrthosiphon pisum
+--------------------------------------------------------------------------------
+----------------------------------------VAMCIRNCAQCKKMLGDYFEGPLCADTCVK---FKGK---
+--MIPDCENIDSIAPFLNKLE
+>XP_047503358|Lepidoptera|Pieris napi
+------------------------------------AST--------------PHHVSRR--S-----------------
+---FF--N--LECKGVFDA-------------------AIFARLDRICDDCYNLFREPQLYTLCRSECFTTLFFKGCVES
+LCLSDEVEELDLMIDFIGK-R
+>XP_030368889|Diptera|Scaptodrosophila lebanonensis
+---MCSRNIK---IS--VVL-FL----VL-VPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACIEA
+LQLHEDMEKYNEWRDTLGR-K
+>XP_001994901|Diptera|Drosophila grimshawi
+------KNLL---LISIVLT-AL----CL-LQFG--EAIP--------S---IGHY-GKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDLGSIAPFINALE
+>XP_065719839|Diptera|Drosophila suzukii
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_002041082|Diptera|Drosophila sechellia
+---MNCKPLI---LCTFVAV-AM----CL-VHFG--NALP--------A---ISHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_015370790|Hemiptera|Diuraphis noxia
+-----------------------------------------------------DHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRKNCFTTDFFKGCLDV
+LLLEDEVEKIQK--------W
+>XP_015009726|Diptera|Drosophila erecta
+---MNCKPLI---LCTFVAV-AM----CL-LHFG--SALP--------A---ISHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------VQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_034651268|Diptera|Drosophila subobscura
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>BAV78805|Hemiptera|Plautia stali
+---F----------------------------------------------------------------------------
+-------A--E--MVPANQ---------------------VGVCIRNCAQCKKMFGAYFEGQLCADTCLK---FKGK---
+--LIPDCEDVASIGPFLNRID
+>NP_001262668|Diptera|Drosophila melanogaster
+---MNCKPLI---LCTFVAV-AM----CL-VHFG--NALP--------A---ISHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------VQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_052838267|Diptera|Drosophila gunungcola
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_041675766|Diptera|Drosophila eugracilis
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_017846075|Diptera|Drosophila busckii
+---NN-KSIM---LLGLALT-LC----CL-LHSS--NAMP--------S---IAHY-GKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>XP_017956554|Diptera|Drosophila navojoa
+-------------------------------QFG--EALP--------S---IGHY-GKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>XP_039277956|Hemiptera|Nilaparvata lugens
+-----------------------------------------------------GHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREAQLHSLCRRDCFTSDYFKGCIDV
+LLLQDEMENIQT--------W
+>KAH8382253|Diptera|Drosophila setifemur
+---MNSKPLI---LCTLVAV-AL----CL-VHFG--TAVP--------A---IGHFTHKR--------------------
+----------------------------------------FGVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>KAF6216817|Hemiptera|Apolygus lucorum
+---R---RAV---AS--LVV-ASTLLTCL-LAGP--ASRI-------IM----GHPLNKR--S-----------------
+---FF--D--LQCKGVYDK-------------------SIFARLDRICEDCYNLFREPSLHSLCRKNCFTTDYFKGCIDT
+---------------------
+>CAG4972248|Lepidoptera|Colias eurytheme
+------------------------------PLHS--RSEP--------RRGQSF--------------------------
+--------------TGYDH---------------------LELCIENCAQCKKTLGAWFDGPLCADSCLK---FRGK---
+--LIPDCEDFASIAPFLTK-I
+>CAH1400795|Hemiptera|Nezara viridula
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMFGAYFEGQLCADTCLK---FKGK---
+--LIPDCEDVASIGPFLNRID
+>XP_020813255|Diptera|Drosophila serrata
+---MNCKPLI---LCTFLAI-AL----CL-VHYG--GAVP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQNCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_061720438|Lepidoptera|Cydia pomonella
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREAQLYTLCRAKCFTTPYFKGCMES
+LYLYDEEEQIDQMVDFVG--R
+>KDR15011|Blattodea|Zootermopsis nevadensis
+--------------------------------------------------------------------------------
+----------------------------------------IGVCIRNCAQCKKMFGPYFEGQLCADACVK---FKGK---
+--IIPDCEDLASIAPFLNKFE
+>XP_060864237|Hemiptera|Metopolophium dirhodum
+-----------------------------------------------------DHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRKNCFTTDFFKGCLDV
+LLLEDEVEKIQK--------W
+>BES91934|Hemiptera|Nesidiocoris tenuis
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMFGAYFQGELCADTCLK---FKGK---
+--LIPDCEDVTSIGPFLNKLE
+>XP_059058569|Lepidoptera|Achroia grisella
+---LA--------LFTIIAV-L-----VN-FGHV--RCNP--------A---IA--------------------------
+--------------TGYDP---------------------MEICIENCAQCKKMLGAWFDGPLCAESCIK---FKGK---
+--LIPECENFASISPFLNK-L
+>AAB25068|Orthoptera|Schistocerca gregaria=locusts, corpus cardiacum, Peptide, 34 aa
+--------------------------------------------------------------S-----------------
+---FF--D--IQXKGVYDK-------------------SIFARLDRIXEDXYNLFRE-----------------------
+---------------------
+>KAI8046346|Diptera|Drosophila gunungcola
+---MNCKPLI---LCTFVAV-AL----CL-MHFG--NAVP--------A---FGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>PNF28222|Blattodea|Cryptotermes secundus
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMFGPYFEGQLCAEACVK---FKGK---
+--MIPDCEDITSIAPFLNKFE
+>VVC30324|Hemiptera|Cinara cedri
+-----------------------------------------------------DHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRKNCFTTDFFKGCLDV
+LLLEDEVEKIQK--------W
+>XP_025411320|Hemiptera|Sipha flava
+--------------------------------------------------------------------------------
+----------------------------------------VGMCIRNCAQCKKMLGSYFEGPLCADACVK---FKGK---
+--MIPDCENIDSVAPFLNKLE
+>KAH8326644|Diptera|Drosophila pandora
+---MNSKPLI---LCTFVAI-AL----CL-LHFG--SAVP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_037295133|Lepidoptera|Manduca sexta
+------------------------------------------------------HHVARR--S-----------------
+---FF--S--LECKGVYDA-------------------SIFARLDRVCDDCYNLFREPQLYTLCRAKCFTTPYFKGCMES
+LYLYDEKEQIDQMIDFVGK-R
+>XP_045502041|Lepidoptera|Colias croceus
+------------------------------------------------------HHIARR--S-----------------
+---FF--N--LQCKGVFDA-------------------AIFARLDRICDDCYNLFREPQLYSLCRSNCFTTPYFKGCMES
+LCLMDEEEELDQLIDFIGK-R
+>XP_017046795|Diptera|Drosophila ficusphila
+---MNCKPLI---FFTVVAV-AL----CL-VHFG--NALP--------A---ISHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFINALE
+>XP_049877130|Lepidoptera|Pectinophora gossypiella
+-----------------------------------------------------QHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYTLFREPQLYSLCRAKCFTTPYFKGCMES
+LYLLDEEEQIDQMIDFVGK-R
+>KAK7864306|Orthoptera|Gryllus longicercus
+------------------------------------------------------HPLSKR--S-----------------
+---FF--D--LQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRKNCFTTDYFKGCLDV
+LLLQDEMDKIQT--------W
+>XP_063830860|Lepidoptera|Ostrinia nubilalis
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCREKCFTTPYFKGCMES
+LYLYDEEEQIDQMIDYVGK-R
+>KAF0766195|Hemiptera|Aphis craccivora
+--------------------------------------------------------------------------------
+----------------------------------------VAICIRNCAQCKKMLGDYFEGSLCADTCVK---FKGK---
+--MIPDCENIESISPFLNKLE
+>VVC44992|Hemiptera|Cinara cedri
+--------------------------------------------------------------------------------
+----------------------------------------VGMCIRNCAQCKKMLGAYFEGPLCADACVK---FKGK---
+--MIPDCENIDSVAPFLNKLE
+>XP_034122447|Diptera|Drosophila guanche
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>ALM30319|Lepidoptera|Chilo suppressalis
+--------------------------------------------------------------------------------
+---------------GYDS---------------------VGICIENCAQCKKMFGAWFEGPLCAESCIK---FKGK---
+--LIPECEDFASISPFLNK-L
+>XP_048483541|Lepidoptera|Plutella xylostella
+---------------------------------------P--------P----PHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------SIFARLDRICDDCYNLFREPELYTLCRRQCFTTPYFKGCMES
+LYLYDEEEQIDQMIDFVGR-R
+>KAH8243774|Diptera|Drosophila birchii
+---MNCKPLI---LCTFLAV-AL----CL-VHYG--GALP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>KAF0763658|Hemiptera|Aphis craccivora
+-----------------------------------------------------DHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRKNCFTTDFFKGCLDV
+LLLEDEVE------------K
+>XP_047996720|Lepidoptera|Leguminivora glycinivorella
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREAQLYTLCRAKCFTTPYFKGCMES
+LYLYDEEEQIDQMVDFVG--R
+>GBP53500|Lepidoptera|Eumeta japonica
+--------------------------------------------------------------------------------
+---------------GYDP---------------------MGICIENCAQCKKMLGPWFEGQLCADTCIK---FKGK---
+--LIPDCEDLGSISPFLNK-L
+>GBP61970|Lepidoptera|Eumeta japonica
+---L---SS----VQ--VA--CAALVTLA-LGAA--GAPP-------SP----PHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFSRLDRICDDCYNLFREAQLYTLCRKDCFTTPYFKGCVEV
+LQETDQLETFKT--------Y
+>XP_062129319|Diptera|Drosophila sulfurigaster albostrigata
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSQFFNACVES
+LQLHDDMDKYNEWRDTLGR-K
+>XP_005175926|Diptera|Musca domestica
+---------V---IFTVVAI-CF----AV-IEVS--QAMP--------S---IGHY-GKR--F-----------------
+-------D--S--MGGIDY---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDFPSIAPFLNALE
+>XP_017015314|Diptera|Drosophila takahashii
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHQLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>VVC89799|Lepidoptera|Leptidea sinapis
+--------------------------------------------------------------------------------
+---------------GYDL---------------------LEICIENCAQCKKMLGAWFEGPLCAESCIK---FKGK---
+--LIPECEDFASIAPFLNK-L
+>XP_026743808|Lepidoptera|Trichoplusia ni
+-----------------------------------------------------SHHITRR--S-----------------
+---FF--S--RKCKGVYDA-------------------SYFARLDRICDDCFNLFREPSLYNLCGENCFTTPYFKGCLES
+LYLYDEKEQIDQMIDFIGK-R
+>XP_016947358|Diptera|Drosophila biarmipes
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>RZF46876|Hemiptera|Laodelphax striatellus
+-----------------------------------------------------GHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREAQLHSLCRSNCFDSPYFNGCLGA
+LLLSDEEEKYTQMVEFLGK-K
+>XP_037826651|Diptera|Lucilia sericata
+---MCSRNIK---IS--VVL-FL----VL-IPLF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGK-K
+>XP_013196239|Lepidoptera|Amyelois transitella
+------------------------------------------------------HHVARR--S-----------------
+---FF--T--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLFTLCRAKCFTTPYFKGCMES
+LYLYDEEEQIDQMIDFVGK-R
+>XP_043654221|Diptera|Drosophila teissieri
+---MNCKPLI---LCTFVAV-AM----CL-VHFG--NAMP--------A---ISHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------VQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_017839217|Diptera|Drosophila busckii
+---MCSRNIK---IS--VVL-FL----VM-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSQFFNACVEA
+LQLHEDMDKYNEWRDTLGR-K
+>XP_022214735|Diptera|Drosophila obscura
+---MNAKPLV---LCTVVLV-AL----CL-LQFG--DALP--------S---IGHY-GKR--F-----------------
+-------D--A--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>CAH2106221|Lepidoptera|Euphydryas editha
+----------------FILV-AF----FC-LEHT--NANP--------A---IA--------------------------
+--------------TGWDP---------------------LEICIENCAQCKKMFGPWFEGPLCAESCIK---FRGK---
+--LIPDCEDLASIAPFLNK-L
+>XP_049812599|Orthoptera|Schistocerca nitens
+--------------------------------------------------------------------------------
+----------------------------------------VSVCIRNCAQCKKMYGPYFEGQLCADACLK---FNGK---
+--MMPDCEDAASIAPFLNKLE
+>XP_068083663|Orthoptera|Anabrus simplex
+--------------------------------------------------------------------------------
+----------------------------------------IGVCIRNCAQCKKMFGTYFEGQLCADACVK---FKGK---
+--LIPDCEDINSIAPFLNKME
+>XP_054278291|Hemiptera|Macrosteles quadrilineatus
+--------------G--VMI-ACSLVTCL-LAVP--------------A----TLSRQKR--S-----------------
+---FY--D--LQCKGVYDK-------------------SIFARLDLICDDCYNLFREPQLHQLCRKDCFTSDYFKGCIEA
+LLLKDESGEILEMVETLG--R
+>KAL1462380|Hemiptera|Cyamophila willieti
+-------------IM--TVT-ML----VL-SPAV--HSSPVNMRNNQIA----GHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYDLFRAPQIHTLCRKDCFTSDYFKGCVDV
+LQLTDEAD------------S
+>NP_001163293|Diptera|Drosophila melanogaster
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>KAK7864952|Orthoptera|Gryllus longicercus
+--------------------------------------------------------------------------------
+----------------------------------------VGLCVRNCAQCKKMFGPYFEGQLCADSCVK---FKGK---
+--LVPDCEDFASIAPFFNKLE
+>XP_050526004|Hemiptera|Daktulosphaira vitifoliae
+-----------------------------------------------------EHSLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------AIFARLDRVCEDCYNLFQVDKLRFLCREKCFTTEFFKGCLDV
+LLLDDEMESIQK--------G
+>XP_015019118|Diptera|Drosophila mojavensis
+---MCSRNIK---IS--VVL-FL----VL-IPIL--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACVEA
+LQLHEDMDKYNEWRDTLGR-K
+>XP_045767681|Lepidoptera|Maniola jurtina
+---T---------L---FAV-IL--TLIN-LERA--DANP--------A---IA--------------------------
+--------------TGYDP---------------------LQICIENCAQCKKMLGAWFEGPLCAESCLK---FKGK---
+--LIPECEDFASIAQFINR-L
+>XP_034835467|Lepidoptera|Maniola hyperantus
+-------SIQ---VV--ALM-TL----AL-ATAP--RAAS--------S----PHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLFTLCRSKCFTSPYFKGCMES
+LYLYDEEEQLDQMIDFIGK-R
+>CAK1547600|Lepidoptera|Leptosia nina
+--------------------------------------------------------------------------------
+---------------GYDQ---------------------LELCIENCAQCKKMLGAWFDGPLCAESCIK---FKGK---
+--LIPDCEDFASIAPFINK-L
+>XP_034127042|Diptera|Drosophila guanche
+---MNAKPLV---LCTVVVV-AL----CL-LHFG--DALP--------S---IGHY-GKR--F-----------------
+-------D--A--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_049778633|Orthoptera|Schistocerca cancellata
+-------GVV---LC--VLV-VA----SL-VSTA--ASSP-------LD----PHHLAKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRKDCFTSDYFKGCIDV
+LLLQDDMDKIQS--------W
+>XP_032590850|Diptera|Drosophila grimshawi
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSVFFNACVEA
+LQLHEEMDKYNEYRDTLGR-K
+>XP_024086218|Hemiptera|Cimex lectularius
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMFGAYFEGQLCADTCLK---FKGK---
+--LIPDCEDVSSIGPFLNKID
+>KAH8329748|Diptera|Drosophila pseudoananassae
+---MNSKPLI---LCTFVAI-AL----CL-LHFG--SAVP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDFIQVSCILLLILNLKLSPQNFILQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>AAD20820|Orthoptera|Locusta migratoria
+------------------------------------------------------HHLAKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRSDCFKSPYFKGCLQA
+LLLIDEEEKFNQMVEILGK-K
+>XP_049827523|Orthoptera|Schistocerca gregaria
+--------------------------------------------------------------------------------
+----------------------------------------VSVCIRNCAQCKKMFGPYFEGQLCADACLK---FNGK---
+--MMPDCEDAASIAPFLNKLE
+>PNF40623|Blattodea|Cryptotermes secundus
+-------------VS--MII-A-----SL-LTGP--SSGL-------VL----GHSLNKR--S-----------------
+---FF--E--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRKNCFTTDYFKGCLDV
+LLLQDEMEKYQT--------W
+>KPJ05178|Lepidoptera|Papilio xuthus
+---MALKTIV---FAVFICY-TS----FL-INFA--NAEP--------A---IA--------------------------
+--------------IGYNP---------------------VEVCLENCAVCKKMLGAWFEGPRCAEACIR---HRGT---
+--PIPDCEDFASIAPFLTK-I
+>XP_052743944|Lepidoptera|Bicyclus anynana
+-------SIQ---VC--ALM-TL----AL-ATAP--HAAS--------A----PHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCFNLFREPQLYNLCRSKCFTSPYFKGCMES
+LYLYDEEEQLDQMIDFIGK-R
+>XP_004444513|Diptera|Drosophila pseudoobscura
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_053965207|Diptera|Anastrepha ludens
+---MCSRNIK---IS--VVL-FL----VL-IPLI--TALP--------H---NNHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSAFFSACVEA
+LQLHEEMDKYNEWRGTLGK-K
+>XP_060851819|Hemiptera|Rhopalosiphum padi
+-----------------------------------------------------DHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------TIFARLDRVCEDCYNLFREPQLHSLCRSTCFNTVYFKACLES
+LQMLTEETQYNQMVEFLGK-K
+>PSN44322|Blattodea|Blattella germanica
+--------LL---VS--IML--A----SL-VAVP--ASGR-------VL----GHSVNKR--S-----------------
+---FF--E--LQCKGVYDK-------------------SIFARLDRICEDCYNLFREPHLHTLCRSNCFSSPYFDGCIEA
+LLLDKEKENFSQMIEFLGK-K
+>XP_015034467|Diptera|Drosophila willistoni
+---MCSRKIK---IS--VML-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACIEA
+LQLHEEMDQYNEWRETLGR-K
+>KAJ9598253|Blattodea|Diploptera punctata
+--------------------------------------------------------------------------------
+----------------------------------------INVCIRNCAQCKKMFGPYFEGQLCADACVK---FKGK---
+--MIPDCEDVASISPFLNKFE
+>QQW38911|Hemiptera|Lygus hesperus
+---R---RAV---AS--LVV-ASTLLTCL-LAGP--ASRI-------IM----GHPLNKR--S-----------------
+---FF--D--LQCKGVYDK-------------------SIFARLDRICEDCYNLFREPSLHSLCRKNCFTTDYFKGCIDV
+LLLQDEMEHIQS--------W
+>XP_017105154|Diptera|Drosophila bipectinata
+---MNSKPLI---LSTFVAI-AL----CL-LHFG--SAVP--------A---IGHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>CAG9561380|Lepidoptera|Danaus chrysippus
+--------------------------------------------------------------------------------
+---------------GYDP---------------------MEVCIENCAQCKKMLGAWFEGQLCAESCIK---YRGK---
+--MIPDCENYASISPFLNK-L
+>XP_045527628|Lepidoptera|Pieris brassicae
+------------------------------------AST--------------PHHVSRR--S-----------------
+---FF--S--LECKGVFDA-------------------AIFARLDRICDDCYNLFREPQLYTLCRSDCFTTLFFKGCVES
+LCLSDEVEELDLMIDFIGK-R
+>XP_030573938|Diptera|Drosophila novamexicana
+---NN-RTLL---LLSIALT-VL----CL-LQCG--EALP--------S---IGHY-GKR--F-----------------
+-------D--P--MGGIDF---------------------IQICLNNCAQCKKMFGDYFQGQTCAESCLK---FKGK---
+--AIPDCEDIGSIAPFLNALE
+>RZF32562|Hemiptera|Laodelphax striatellus
+--------------------------------------------------------------------------------
+----------------------------------------IGVCIRNCAQCKKMFGAYFEGQLCADACVK---FKGK---
+--LLPDCEDVASIAPFLNKLE
+>XP_065215707|Hemiptera|Planococcus citri
+----------------------------------------------------------KR--S-----------------
+---FY--D--IHCKGIYDK-------------------SIFARIDQICEDCYNLFREPKLHSVCRQDCFTTEYFKGCVEV
+LLLNDEFEKYQE--------W
+>XP_014256376|Hemiptera|Cimex lectularius
+---R---RAL---AG--LVV-ASTLISCF-VAGP--TSRI-------IM----GHPLNKR--S-----------------
+---FF--D--IRCKGVYDK-------------------SIFARLDRICEDCYNLFRAPQLHSLCRKNCFTSVYFKGCIEV
+LLLQDEMENIQS--------W
+>CAH2042689|Lepidoptera|Iphiclides podalirius
+---LSSVRVA---LA--AVF-AL----VL-GVAA--ASPP--------A----PHHVARR--S-----------------
+---FF--K--LQCKGIYDA-------------------SIFARLDRICDDCYNLFREPSLYNLCRQKCFQSEYFMGCVEA
+LLLTDERDEIEQMVDYVGK-R
+>QQW38904|Hemiptera|Lygus hesperus
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMFGAYFQGELCADTCLK---FKGK---
+--LIPDCEDVTSISPFLNKID
+>XCA47740|Orthoptera|Gryllus bimaculatus
+------------------------------------------------------HPLSKR--S-----------------
+---FF--D--LQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRSKCFTSPYFKGCIEA
+LLLNEDEENLTQMVDFIG--K
+>XP_022119612|Lepidoptera|Pieris rapae
+------------------------------------AST--------------PHHVSRR--S-----------------
+---FF--S--LECKGVFDA-------------------AIFARLDRICDDCYNLFREPQLYTLCRSDCFTTLFFKGCVES
+LCLSDEMEELDLMIDFIGK-R
+>CAH2232398|Lepidoptera|Pararge aegeria aegeria
+-----------------MTL-A------L-ATAP--HAAS--------A----PHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPKLYNLCRKDCFTTDYFKGCVEV
+LQETDQLELFKK--------Y
+>XP_026731726|Lepidoptera|Trichoplusia ni
+---F-------------VAAAFL----AN-FGHV--ACNP--------A---IA--------------------------
+--------------TGYEP---------------------MEICIENCAQCKKMLGAWFEGPLCAESCIK---FKGK---
+--LIPECEDFASISPFLNK-L
+>XP_047113407|Orthoptera|Schistocerca piceifrons
+-------GVV---LC--VLV-VA----SL-VSTA--ASSP-------LD----PHHLAKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRSDCFKSPYFKGCLQA
+LLLIDEEEKFNQMVEILGK-K
+>KAH8356407|Diptera|Drosophila pseudotakahashii
+---MNCKPLI---LCTFVAV-AL----CL-VHFG--NAMP--------A---INHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_047098798|Orthoptera|Schistocerca piceifrons
+--------------------------------------------------------------------------------
+----------------------------------------VGVCIRNCAQCKKMFGPYFEGQLCGDACLK---FKGK---
+--MVPDCEDAASIAPFLSKLE
+>XP_047531861|Lepidoptera|Vanessa atalanta
+-----------------VAV-FL----CY-LDHI--NTNP--------A---IA--------------------------
+--------------TGYDP---------------------FEICIENCAQCKKMLGAWFEGSLCAESCIK---FKGK---
+--LIPECEDFASIAPFLNK-L
+>XP_036674397|Diptera|Drosophila suzukii
+---MNCKPLI---LCTFVTI-AV----CL-VHFG--NAMP--------A---INHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_041968405|Lepidoptera|Aricia agestis
+---V------------FVLL-AV----AL-LSGV--RANP--------A---IGKQ-PRN--L-----------------
+-------R--H--SMGYDP---------------------LELCIENCAQCKKMLGAWFEGPLCAESCIK---YKGK---
+--LIPECEDFASISPFLNK-L
+>XP_045507169|Lepidoptera|Colias croceus
+---MSAKLAA---IFALVAV-AA-----S-L--V--EGNP--------S---IV--------------------------
+--------------TGYDH---------------------LELCIENCAQCKKTLGAWFDGPLCADSCLK---FRGK---
+--LIPDCEDVASIAPFLTK-I
+>XP_039276961|Hemiptera|Nilaparvata lugens
+--------------------------------------------------------------------------------
+----------------------------------------IGVCIRNCAQCKKMFGAYFEGQLCADACVK---FKGK---
+--LLPDCEDVASIAPFLNKLE
+>KAK9505851|Hemiptera|Rhynocoris fuscipes
+--------------------------------------------------------------------------------
+----------------------------------------IGICIRNCAQCKKMFGVYFEGQLCADTCLK---YKGK---
+--LIPDCEDITSIGPFLNKLK
+>KQS63129|Diptera|Drosophila erecta
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_014274477|Hemiptera|Halyomorpha halys
+---R---RAL---AG--LVV-ASTLLSCL-VAVP--TSRS-------IM----GHPLNKR--S-----------------
+---FF--D--LQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRKNCFTTDYFKGCLDV
+LLLQDEMENIQT--------W
+>XP_050682721|Lepidoptera|Leptidea sinapis
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCRSQCFTSPYFKGCMES
+LCLMDEEEELDQLIDYIGK-R
+>XP_022165924|Hemiptera|Myzus persicae
+--------------------------------------------------------------------------------
+----------------------------------------VAMCIRNCAQCKKMLGDYFEGPLCADACVK---FKGK---
+--MIPDCENVDSIAPFLNKLE
+>KAG8312633|Hemiptera|Homalodisca vitripennis
+-----------------------------------------------------GHSVQKR--S-----------------
+---FY--D--LQCKGVYDK-------------------SIFARLDLICDDCYNLFREPQLHQLCRKDCFTSPYFKGCIEA
+LLMTDESEEIFQMVETLGK-K
+>CAH2984761|Lepidoptera|Chilo suppressalis
+------------------------------------------------------HHVARR--S-----------------
+---FF--T--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPQLYTLCREKCFQTPFFKGCMES
+LYLYDEEEQIDQMIDFVGK-R
+>KAJ2948259|Lepidoptera|Tuta absoluta
+------------------------------------------------------HHVARR--S-----------------
+---FF--N--LQCRGVYDA-------------------AIFARLDRICDDCYTLFRESELYNLCRRNCFTTTYFKGCIKS
+LYLHDEEEQIDDMVDYIGR-R
+>XP_011560290|Lepidoptera|Plutella xylostella
+--------------------------------------------------------------------------------
+---------------GYDP---------------------MAICIENCAQCKKMLGPWFEGQLCAETCIK---FKGK---
+--LIPDCEDLGSISPFLNK-L
+>ACZ96371|Hemiptera|Rhodnius prolixus
+------------------VV-ASTLLSWA-VAGP--SSRL-------VL----SHPLNKR--S-----------------
+---FF--D--LQCKGVYDK-------------------SIFARLDRICEDCYNLFREPQLHSLCRKNCFTTDYFKGCLEV
+LLLQDEMENIQT--------W
+>XP_018793672|Diptera|Bactrocera latifrons
+---MCSRNIK---IS--VVL-FL----VL-IPLI--TALP--------H---NNHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSQFFAACVEA
+LQLHEEMDKYNEWRFTLGK-K
+>XP_017868298|Diptera|Drosophila arizonae
+---MCSRNIK---IS--VVL-FL----VL-IPIL--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQDCFGSPFFNACVEA
+LQLHEDMDKYNEWRDTLGR-K
+>XP_016949850|Diptera|Drosophila biarmipes
+---MNCKPLI---LCTFVAV-AV----CL-VHFG--NAMP--------A---INHYTHKR--F-----------------
+-------D--S--MGGIDF---------------------IQVCLNNCVQCKTMLGDYFQGQTCALSCLK---FKGK---
+--AIPDCEDIASIAPFLNALE
+>XP_039758969|Lepidoptera|Pararge aegeria
+-------SIQ---VC--ALM-TL----AL-ATAP--HAAS--------A----PHHVARR--S-----------------
+---FF--N--LQCKGVYDA-------------------AIFARLDRICDDCYNLFREPKLYNLCRSKCFTSPYFKGCMES
+LYLYDEEEQLDQMIDFIGK-R
+>KRK00576|Diptera|Drosophila yakuba
+---MCSRNIK---IS--VVL-FL----VL-IPIF--AALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>XP_022232240|Diptera|Drosophila obscura
+---MCSRNIK---IS--VVL-FL----VL-IPIF--TALP--------H----NHNLSKR--SN----------------
+---FF--D--LECKGIFNK-------------------TMFFRLDRICEDCYQLFRETSIHRLCKQECFGSPFFNACIEA
+LQLHEEMDKYNEWRDTLGR-K
+>QDZ26133|Hemiptera|Sogatella furcifera
+-----------------------------------------------------GHPLSKR--S-----------------
+---FF--D--IQCKGVYDK-------------------SIFARLDRICEDCYNLFREAQLHSLCRRDCFTSDYFKGCIDV
+LLLQDEMENIQT--------W
